@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "Corvus",
   name: "Luke Linigari",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/gear.png",
   email: "lukelinigari@gmail.com",
   phone: "6474011850",
   address: "Toronto, Ontario, Canada",
@@ -21,7 +21,7 @@ const userData = {
       title: "Microcontroler Programming",
       link: "https://github.com/Corvu-s/arduino-projects",
       imgUrl: "/portfolio.png",
-    },    {
+    }, {
       title: "Lego Creations ",
       link: "https://github.com/Corvu-s/Lego-Digital-Designer-Models",
       imgUrl: "/portfolio.png",
@@ -58,7 +58,7 @@ const userData = {
   socialLinks: {
     linkedin: "www.linkedin.com/in/luke-linigari",
     github: "https://github.com/Corvu-s",
- 
+
   },
 };
 
