@@ -1,30 +1,26 @@
 const userData = {
-  githubUsername: "Corvus",
+  githubUsername: "Corvu-s",
   name: "Luke Linigari",
   designation: "Full-Stack Developer",
   avatarUrl: "/gear.png",
-  email: "lukelinigari@gmail.com",
+  email: "lukeLinigari@gmail.com",
   phone: "6474011850",
   address: "Toronto, Ontario, Canada",
   projects: [
     {
       title: "Stock Tracking App",
       link: "https://github.com/Corvu-s/dividend-tracker",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/wall.jpg",
     },
     {
       title: "TTC Parking App",
       link: "https://github.com/Corvu-s/EECS3311-Express-Parking-App",
-      imgUrl: "/placeholdertech.png",
+      imgUrl: "/ttc.png",
     },
     {
       title: "Microcontroler Programming",
       link: "https://github.com/Corvu-s/arduino-projects",
-      imgUrl: "/portfolio.png",
-    }, {
-      title: "Lego Creations ",
-      link: "https://github.com/Corvu-s/Lego-Digital-Designer-Models",
-      imgUrl: "/portfolio.png",
+      imgUrl: "/arduino.png",
     },
   ],
   about: {
@@ -58,7 +54,6 @@ const userData = {
   socialLinks: {
     linkedin: "www.linkedin.com/in/luke-linigari",
     github: "https://github.com/Corvu-s",
-
   },
 };
 
