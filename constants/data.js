@@ -35,6 +35,13 @@ const userData = {
   },
   experience: [
     {
+      title: "Current position",
+      company: "Owl Robotics",
+      year: "2021-2022",
+      companyLink: "",
+      desc: "I am the lead front end engineer at Owl Robotics. We are responsible for creating low cost fluid management systems for education purposes.",
+    },
+    {
       title: "Post Secondaty",
       company: "Lassonde School of Engineering",
       year: "2018-2023",
